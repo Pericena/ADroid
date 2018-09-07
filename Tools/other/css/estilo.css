@@ -1,0 +1,242 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+
+    Author     : Luishiño Pericena Ch
+*/
+
+
+	body {
+    margin:0px;
+    padding:0px;
+   
+}
+
+
+
+#contenedor{
+       background-color:black;
+       border:2px solid #FF0000;*/
+}
+#cabecera{
+        background:red;
+        height:0%;
+    width: 100%;
+}
+#menu{
+        height:10%;
+    width: 100%;
+        background:#C8CACC;
+}
+#izquierda{
+        height:0%;
+        background:#BDD2EF;
+        float:left;
+        width:50%;
+}
+#derecha{
+        height:0%;
+        background:#DAF7E2;
+        float:right;
+        width:50%;
+}
+
+}
+
+
+.icon{
+         background:#red;
+     width:100%;
+   
+}
+
+.caja{
+    width:99%;
+    margin: 0%;
+    padding: 0px;
+        height:1%;
+        clear:both;
+    background:#eef3f7;
+}
+
+
+video{
+	position:fixed;
+	min-width:100%;
+	min-height:100%;
+	top:50%;
+	left:50%;
+	transform:translateX(-50%) translateY(-50%);
+	z-index:-1;
+	
+	-wbkit-filter:sepia(10%);
+}
+
+img{
+    margin: 2% 0%;
+    padding: 1% 0%;
+	top:20% 30% 40% 20%;
+	left:20% 40% 20% 40%;
+	  
+	
+}
+
+.log{
+    margin: 0% 0%;
+    padding: 2% 2%;
+    width: 50%;
+	top:20% 20% 0% 0%;
+	left:20% 20% 20% 40%;
+	  
+	
+}
+
+h2{
+   
+	font-size: 30px;
+    color:#0077aa;
+}
+
+h3{
+    
+    margin: 0%;
+    padding: 0% -1%;
+    width: -1%;
+	font-size: 13px;
+    color:#fff;
+}
+h4{
+	text-decoration:center;
+
+}
+
+
+
+h5{
+    color: #0077aa;
+}
+
+h6{
+	    color: #ffffff;
+    padding: 0% 10%;
+	font-size: 14px;
+    color: #ffffff;
+    margin: 0% 0%;
+}
+
+
+input{
+
+    padding: 1% 20%;
+	margin: 0% 0%;
+	color:black;
+    border-radius: 2%;
+    background: #dddddd;
+}
+
+
+.mensaje{
+    padding: 5% 25%;
+	margin:0% 0%;
+	color:black;
+    font-size: 12px;
+    border-radius: 3%;
+    background: #dddddd;
+ 
+    
+}
+
+
+input[type="submit"]{
+   /* background: linear-gradient(#3333ff, #FFB940);*/
+   background: red;
+    color:#ffffff;
+    opacity: 0.8;
+    cursor: pointer;
+    border-radius: 12px;
+    margin-bottom: 2px;
+    }
+
+input[type="submit"]:hover{
+    opacity: 10;
+}
+
+input[type="submit"]:active{
+     display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    
+}
+
+
+
+.fou{
+        color: #ffffff;
+    margin: 2%;
+    padding: 2px;
+        height:2%;
+        clear:both;
+    
+    clear:both;    
+    padding: 0% 3% 22% 30%;
+    color:#ffff;
+    background: #000000;
+    margin:0%;
+
+}
+
+
+
+			
+.header {
+    margin:auto;
+    width:500px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+    list-style:none;
+}
+
+.nav > li {
+    float:left;
+}
+
+.nav li a {
+    background-color:#000;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+
+.nav li a:hover {
+    background-color:#434343;
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+}
+
+.nav li:hover > ul {
+    display:block;
+}
+
+.nav li ul li {
+    position:relative;
+}
+
+.nav li ul li ul {
+    right:-140px;
+    top:0px;
+}
+
+	

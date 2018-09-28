@@ -73,7 +73,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/ADroid) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Versionado 📌
 
@@ -93,6 +93,5 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * etc.
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+:pencil:
+⌨️ por [Pericena](https://github.com/Pericena) 😊
